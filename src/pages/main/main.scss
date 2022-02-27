@@ -1,0 +1,12 @@
+.seasons-container {
+	width: 60%;
+
+	.episode-container {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.name {
+		font-weight: 600;
+	}
+}

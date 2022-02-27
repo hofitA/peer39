@@ -1,0 +1,12 @@
+.character-container {
+	display: flex;
+
+	img {
+		width: 40%;
+		box-shadow: 2px 8px 8px rgb(0, 0, 0, 0.3);
+	}
+
+	.data-container {
+		padding-left: 20px;
+	}
+}
